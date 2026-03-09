@@ -21,7 +21,7 @@ Asisten Praktikum :
 5. Segi Empat
    <img width="1365" height="767" alt="Screenshot 2026-03-07 122415" src="https://github.com/user-attachments/assets/28e2c3cb-de15-4149-b53a-b82c4946b764" />
 
-**## Laprak :**
+**LAPRAK :**
 
 Selain membuat titik menggunakan GL_POINT, garis menggunakan GL_LINES,buatlah program yang memanfaatkan fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN, GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP
 
