@@ -1,7 +1,7 @@
 # PERTEMUAN 2
-# Nama : Ovilia Suci Ramadhani
-# NIM : 24060124120040
-# Lab : A2
+## Nama : Ovilia Suci Ramadhani
+## NIM : 24060124120040
+## Lab : A2
 
 **Asisten Praktikum :**
 - Siriel Wafa Nuriel Fahri
@@ -17,9 +17,9 @@
    <img width="1365" height="767" alt="Screenshot 2026-03-17 033609" src="https://github.com/user-attachments/assets/ca49aeca-e32e-4388-b245-58460cedf38b" />
    <img width="1365" height="767" alt="Screenshot 2026-03-17 033629" src="https://github.com/user-attachments/assets/5f66734c-3193-4c96-bf28-0e1fa617675f" />
 
-4. Laprak (Tugas)
+## Laprak (Tugas)
    
-   **# MOBIL**
+   ### MOBIL
    <img width="1365" height="767" alt="Screenshot 2026-03-17 061719" src="https://github.com/user-attachments/assets/ea3bd6fe-25db-4d63-92c2-d28fea860f18" />
    <img width="1365" height="767" alt="Screenshot 2026-03-17 061805" src="https://github.com/user-attachments/assets/869492cc-930c-4b95-83bb-70d8aaa8e050" />
    <img width="1365" height="767" alt="Screenshot 2026-03-17 061838" src="https://github.com/user-attachments/assets/221d19d1-26b1-4e0e-9c02-27964e18da07" />
