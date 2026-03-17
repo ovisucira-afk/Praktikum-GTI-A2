@@ -32,26 +32,26 @@
    
    a. Trapesium
    
-      Pada gambar tersebut, terdapat 2 trapesium yaitu sebagai body atas dan jendela.
-      Pada body atas, GL_QUAD_STRIP digunakan untuk menggambar serangkaian persegi panjang yang saling terhubung.
-      Sedangkan jendela menggunakan GL_TRIANGLE_STRIP untuk membuat beberapa segitiga yang terhubung.
+   Pada gambar tersebut, terdapat 2 trapesium yaitu sebagai body atas dan jendela.
+   Pada body atas, GL_QUAD_STRIP digunakan untuk menggambar serangkaian persegi panjang yang saling terhubung.
+   Sedangkan jendela menggunakan GL_TRIANGLE_STRIP untuk membuat beberapa segitiga yang terhubung.
    
    b. Persegi Panjang
    
-      Pada body bawah mobil, GL_QUADS digunakan untuk menggambar persegi panjang sebagai badan mobil.
+   Pada body bawah mobil, GL_QUADS digunakan untuk menggambar persegi panjang sebagai badan mobil.
    
    c. Lingkaran
    
-      Roda pada gambar tersebut berbentuk lingkaran, untuk itu GL_LINE_LOOP digunakan sebagai garis tepi lingkaran.
-      GL_TRIANGLE_FAN juga digunakan untuk membuat lingkaran penuh.
+   Roda pada gambar tersebut berbentuk lingkaran, untuk itu GL_LINE_LOOP digunakan sebagai garis tepi lingkaran.
+   GL_TRIANGLE_FAN juga digunakan untuk membuat lingkaran penuh.
    
    d. Garis
    
-      Pada gambar ini, GL_LINES yang menghasilkan garis digunakan sebagai ilustrasi velg sederhana pada roda.
+   Pada gambar ini, GL_LINES yang menghasilkan garis digunakan sebagai ilustrasi velg sederhana pada roda.
    
    e. Titik
 
-      Lampu pada gambar ini menggunakan titik yang berukuran besar dengan memanfaatkan GL_POINTS.
+   Lampu pada gambar ini menggunakan titik yang berukuran besar dengan memanfaatkan GL_POINTS.
      
    
 
