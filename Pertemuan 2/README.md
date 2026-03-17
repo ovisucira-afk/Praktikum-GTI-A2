@@ -50,8 +50,8 @@
       Pada gambar ini, GL_LINES yang menghasilkan garis digunakan sebagai ilustrasi velg sederhana pada roda.
    
    e. Titik
-   
-       Lampu pada gambar ini menggunakan titik yang berukuran besar dengan memanfaatkan GL_POINTS.
+
+      Lampu pada gambar ini menggunakan titik yang berukuran besar dengan memanfaatkan GL_POINTS.
      
    
 
