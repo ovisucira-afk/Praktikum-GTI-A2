@@ -4,7 +4,13 @@ Order=0
 [Editor_0]
 Open=1
 Top=1
+<<<<<<< HEAD
 CursorCol=13
 CursorRow=165
 TopLine=154
+=======
+CursorCol=31
+CursorRow=181
+TopLine=1
+>>>>>>> e32a503 (Pertemuan 3)
 LeftChar=1
