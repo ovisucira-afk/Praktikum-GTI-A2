@@ -59,6 +59,8 @@
    
    <img width="902" height="633" alt="Screenshot 2026-03-24 054947" src="https://github.com/user-attachments/assets/8f316146-7dfa-41a2-bfcb-eea270f62e5a" />
 
+3. Simulasi menggunakan sumbu x, y, dan z
+   
 
    
 
