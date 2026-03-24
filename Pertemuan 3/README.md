@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="Screenshot 2026-03-24 054827" src="https://github.com/user-attachments/assets/284a35ec-c0cb-468d-a82e-653b64fca307" /><img width="1365" height="767" alt="Screenshot 2026-03-24 054648" src="https://github.com/user-attachments/assets/ae5ffff5-42fb-49bb-a831-c3c5956088d2" /># PERTEMUAN 3
+# PERTEMUAN 3
 ## Nama : Ovilia Suci Ramadhani
 ## NIM : 24060124120040
 ## Lab : A2
