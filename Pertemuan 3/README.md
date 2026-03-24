@@ -24,6 +24,7 @@
    1) `glTranslatef` yaitu untuk memindahkan posisi
    2) `glRotatef` yaitu untuk memutar sendi (joint)
    3) `glScalef` yaitu untuk membentuk balok
+   
    Transformasi ini bersifat hierarki yaitu jika bahu bergerak, maka lengan juga ikut bergerak.
 
    Cara kerjanya adalah :
@@ -38,9 +39,11 @@
    - Tombol keyboard e/E untuk memutar siku
 
 2. Penambahan telapak tangan dan jari-jari
+
    Target dari soal ini adalah untuk menambahkan telapak tangan dan jari-jari yang bisa dikontrol pergerakannya menggunakan keyboard.
 
    **KODE**
+   
    <img width="1365" height="767" alt="Screenshot 2026-03-24 054648" src="https://github.com/user-attachments/assets/61a1e032-0014-44ef-9c2c-c2f0937a96f3" />
    <img width="1365" height="767" alt="Screenshot 2026-03-24 054717" src="https://github.com/user-attachments/assets/39212d48-efb2-46fe-bcf9-47ffd4b02581" />
    <img width="1365" height="767" alt="Screenshot 2026-03-24 054734" src="https://github.com/user-attachments/assets/d8858f11-bf1e-424a-af69-e2e19765137b" />
@@ -53,6 +56,7 @@
    Setelah itu diberikan kontrol keyboard untuk masing masing objek tersebut.
 
    **HASIL**
+   
    <img width="902" height="633" alt="Screenshot 2026-03-24 054947" src="https://github.com/user-attachments/assets/8f316146-7dfa-41a2-bfcb-eea270f62e5a" />
 
 
