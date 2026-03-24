@@ -52,7 +52,8 @@
    Setelah itu diberikan kontrol keyboard untuk masing masing objek tersebut.
 
    **HASIL**
-   <img width="902" height="633" alt="Screenshot 2026-03-24 054947" src="https://github.com/user-attachments/assets/151d6b82-dac5-4a56-9f63-8abac51d973f" />
+   <img width="902" height="633" alt="Screenshot 2026-03-24 054947" src="https://github.com/user-attachments/assets/8f316146-7dfa-41a2-bfcb-eea270f62e5a" />
+
 
    
 
