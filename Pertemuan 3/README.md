@@ -1,4 +1,4 @@
-# PERTEMUAN 3
+<img width="904" height="632" alt="Screenshot 2026-03-24 084931" src="https://github.com/user-attachments/assets/02dd6239-5076-4d29-8a5b-4f057f4d06f6" /># PERTEMUAN 3
 ## Nama : Ovilia Suci Ramadhani
 ## NIM : 24060124120040
 ## Lab : A2
@@ -61,6 +61,23 @@
 
 3. Simulasi menggunakan sumbu x, y, dan z
    
-
+   Diasumsikan bahwa :
+   - `glTranslatef(1.0,0,0)` = +100 mm (X)
+   - `glTranslatef(0,0.2,0)` = +20 mm (Y)
+     
+   Contoh :
    
+   1) Menggerakkan ruas jari kelingking bawah dengan menekan keyboard '1', yang artinya akan berubah 5 derajat terhadap sumbu Z
+     <img width="899" height="631" alt="Screenshot 2026-03-24 091152" src="https://github.com/user-attachments/assets/e6cacc2a-f1ac-442e-9c38-f40ad6cfdaf7" />
 
+   2) Menggerakkan ruas jari kelingking atas dengan menekan keyboard '!', yang artinya akan berubah 5 derajat terhadap sumbu Z
+      <img width="899" height="629" alt="Screenshot 2026-03-24 091206" src="https://github.com/user-attachments/assets/ac96d698-d788-496b-bb87-44191772a477" />
+
+   3) Menggerakkan pergelangan dengan menekan keyboard 'w', yang artinya akan berubah 5 derajat terhadap sumbu Z
+      <img width="898" height="628" alt="Screenshot 2026-03-24 091229" src="https://github.com/user-attachments/assets/8b2fa910-6f74-4ad5-a3f8-e32f7d561462" />
+
+   4) Menggerakkan bahu dengan menekan keyboard 's', yang artinya akan berubah 5 derajat terhadap sumbu Z
+     <img width="899" height="630" alt="Screenshot 2026-03-24 091240" src="https://github.com/user-attachments/assets/87228e6a-bf38-4cd5-b013-983d952e8d36" />
+
+   5) Menggerakkan siku dengan menekan keyboard 'e', yang artinya akan berubah 5 derajat terhadap sumbu Z
+      <img width="898" height="629" alt="Screenshot 2026-03-24 091250" src="https://github.com/user-attachments/assets/dd9c0d85-5704-46d7-8032-6da71e7c4ded" />
