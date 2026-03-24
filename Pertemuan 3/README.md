@@ -15,7 +15,8 @@
 
 3. Lengan Bergerak (Modul)
    <img width="1365" height="767" alt="Screenshot 2026-03-24 061542" src="https://github.com/user-attachments/assets/817f7b07-9ee9-4669-9294-7328b84e366a" />
-   <img width="1365" height="767" alt="Screenshot 2026-03-24 061621" src="https://github.com/user-attachments/assets/fa7a79fb-e72e-44a5-9e8d-eb3635a892d2" />
+   <img width="1365" height="767" alt="Screenshot 2026-03-24 070838" src="https://github.com/user-attachments/assets/ea520029-59be-4f1a-b0d1-4ee7a13da9f0" />
+
 
 ## TUGAS
 1. Cara kerja kode Lengan Bergerak (Modul)
